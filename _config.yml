@@ -17,7 +17,7 @@ baseurl: ""
 title: William Matcham
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Personal Webpage
 
 # --- Navigation bar options --- #
 
@@ -67,7 +67,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "william.matcham@outlook.com"
   github: wom26
   twitter: willmatchamecon
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
