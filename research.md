@@ -4,11 +4,11 @@ title: Research
 
 ---
 
-### Interests:
+### Working Papers
 
-- IO
-- Econometrics
-- Economics of Innovation
+- Generalised Ordered Choice Models (with Tatiana Komarova) 
+
+Slides available on request
 
 ### Research Assistance
 
