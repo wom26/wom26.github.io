@@ -9,24 +9,50 @@ use-site-title: true
 
 <head>
   {% seo %}
-  
-  <style>
-    
-table, td, th {
-  border: none;
+
+<style>
+* {
+  box-sizing: border-box;
 }
-table {
-  border-collapse: collapse;
-  width: 100%;
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
 }
-td {
-  vertical-align: top;
+
+.left {
+  width: 25%;
 }
-    
+
+.right {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}        
 </style>
 </head>
 
-<body style="width: 100%">
+<body>
+
+<div class="row">
+  <div class="column left">
+<img src="img/wm_2_2022.jpg" alt="Photo of Will Matcham" width="400" height="400">
+  </div>
+  <div class="column right" >
+    <p> I am anNNNN economics PhD candidate at the London School of Economics. </p>
+<p> My research interests include household finance, innovation, and econometrics.</p>
+ <p> <a href="img/newcv2.pdf" target="_blank"> This is a link to my CV </a> </p>
+<p> If you need to contact me, please email  w.o.matcham at lse.ac.uk.	</p>
+  </div>
+</div>
+
   
   <table>
   <tr>
