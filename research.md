@@ -4,10 +4,19 @@ title: Research
 
 ---
 
-### Research Assistance
-
-1. Alessandro Gavazza [Regulatory Interventions in Consumer Search Markets: The Case of Credit Cards](https://drive.google.com/file/d/0B0zgiGWo8tT2Q2dJQVFMa3g5UTA/view)
-2. Alberto Galasso and Mark Schankerman [Patents and Cumulative Innovation: Causal Evidence from the Courts](https://academic.oup.com/qje/article-abstract/130/1/317/2337637)
-3. Mark Schankerman and Florian Schuett [Screening for Patent Quality: Examination, Fees, and the Courts](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=11688)
-
 ### Working Papers
+
+1. "Risk-based Quantities in Credit Card Markets" awaiting clearance [fca preview](https://www.fca.org.uk/publications/research/interest-rates-risk-based-credit-limits-uk-credit-card-market)
+2. ["Multivariate Ordered Discrete Response Models"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4103429) with Tatiana Komarova
+
+<span style="font-size:4em;"> We introduce multivariate ordered discrete response models that exhibit non-lattice structures. From the perspective of behavioral economics, these models correspond to broad bracketing in decision making, whereas lattice models, which researchers typically estimate in practice, correspond to narrow bracketing. There is also a class of hierarchical models, which nests lattice models. A special case of non-lattice models, hierarchical models corre- spond to sequential decision making and can be represented as binary decision trees. In each of these three cases, we specify latent processes as a sum of an index of covariates and an unobserved error, with unobservables for different latent processes potentially correlated. This additional dependence further complicates the identification of model parameters in non-lattice models. We provide conditions sufficient to guarantee identification under the independence of errors and covariates, compare these to identification conditions in lattice models, and outline an estimation approach. Finally, we provide simulations and empirical examples, through which we discuss the case when unobservables follow a distribution from a known parametric family, with particular focus on probit specifications. </span>
+
+3. "Simultaneous Sample Selection models"
+
+<span style="font-size:4em;"> I extend sample selection models by allowing the outcome to affect selection directly. After a simple model microfoundation, I provide identification and estimation results for the case of jointly normal errors. The simultaneity between the outcome and selection generates ad- ditional endogeneity, and, unlike traditional sample selection models, my identification result requires an excluded regressor in the outcome equation. Simulations confirm the finite sample performance of the new estimator and show sizeable differences in parameters compared to models that do not account for the direct effect of the outcome on the selection decision. I finish with an application to the examination process for patents and their potential quality. I show that traditional sample selection methods understate the positive effect of the inventing firm’s size on patent quality. </span>
+
+### Selected Work in Progress
+
+"The Patent Bazaar: Incentives and Screening in the U.S. Patent System” with Mark Schankerman and Jakub Drabik
+
+"On the Validity of Leniency Instruments" with Mark Schankerman
