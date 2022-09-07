@@ -16,6 +16,6 @@ title: Research
 
 ### Selected Work in Progress
 
-**"The Patent Bazaar: Incentives and Screening in the U.S. Patent System”**, with Mark Schankerman and Jakub Drabik <br>
+**"The Patent Bazaar: Incentives and Screening in the U.S. Patent System”**, with Mark Schankerman <br>
 
 **"On the Validity of Leniency Instruments"**, with Mark Schankerman
