@@ -17,7 +17,7 @@ I extend sample selection models by allowing the outcome to affect selection dir
 
 ### Selected Work in Progress
 
-**"The Patent Bazaar: Incentives and Screening in the U.S. Patent System”**, with Mark Schankerman <br>
+**"The Patent Bazaar: Incentives and Screening in the U.S. Patent System”**, with Mark Schankerman (draft available on request) <br>
 
 <p style='text-align: justify;'> <span style="font-size:1em;"> We develop and estimate a dynamic structural model of the patent screening process. The model incorporates incentives, intrinsic motivation and bargaining structure. We estimate the model using novel negotiation-round-level data on examiner decisions and text data from 24 million patent claims. From the claim text data, we use modern natural language processing methods to develop a new measure of patent distance. Our model estimates imply substantial variation in examiners’ intrinsic motivation relative to examiners’ time costs, with senior examiners less intrinsically motivated than juniors on average. With the estimated model, we calculate changes to timeliness and examination quality resulting from changes to agents’ incentives and the bargaining structure. We find that a reduction in the number of negotiation rounds would improve both timeliness and quality of the patent screening process. </span> </p>
 
