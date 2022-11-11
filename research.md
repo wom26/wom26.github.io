@@ -4,6 +4,8 @@ title: Research
 
 ---
 
+<base target="_blank">
+
 [**Research Statement**](img/rs.pdf)
 
 ### Working Papers
