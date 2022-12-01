@@ -7,6 +7,7 @@ title: Research
 <base target="_blank">
 
 [**Research Statement**](img/rs.pdf)
+[ORCID: 0000-0002-3525-0216](https://orcid.org/0000-0002-3525-0216)
 
 ### Working Papers
 
