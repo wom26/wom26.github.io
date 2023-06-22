@@ -11,7 +11,7 @@ title: Research
 
 ### Working Papers
 
-[**Risk-Based Quantity Limits in Credit Card Markets**](img/jmp.pdf) <br>
+[**Risk-Based Borrowing Limits in Credit Card Markets**](img/jmp.pdf) <br>
 Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk-based-credit-limits-uk-credit-card-market) <br>
 
 <p style='text-align: justify;'> <span style="font-size:1em;"> Credit card lenders individualize contracts primarily through risk-based credit limits rather than interest rates. To understand lenders’ credit limit choices, I use novel statement-level data on the near-universe of UK credit cards active between 2010–2015 to estimate a structural model of the credit card market. The model explains differences in the shape of lenders’ credit limit distributions through a screening technology that provides lenders with a noisy signal of customers’ risk. I identify model parameters using a novel cost shock that results from the April 2011 case in the England and Wales High Court concerning the mis-selling of payment protection insurance. I use the estimated model to evaluate a counterfactual scenario in which lenders can freely individualize interest rates and credit limits, which the existing environment precludes. As a result, individualized interest rates and credit limits emerge, profits increase, and borrowing becomes more dispersed as a result. </span> </p>
