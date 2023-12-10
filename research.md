@@ -26,4 +26,3 @@ Coverage: [C-IP2](https://cip2.gmu.edu/2023/10/04/using-economic-models-to-evalu
 ### Other Work in Progress
 
 **Simultaneous Sample Selection models**
-**On the Validity of Leniency Instruments**, with [Mark Schankerman](https://personal.lse.ac.uk/schanker/)
