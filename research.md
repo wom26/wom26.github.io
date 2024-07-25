@@ -25,14 +25,12 @@ Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk
 
 ### Other Work in Progress
 
-**Patent Trial and Appeal Board: Killing Valid Property Rights?**
+**On Innovation**
+*Patent Trial and Appeal Board: Killing Valid Property Rights?*
+*The Effectiveness of Screening in the European Patent Office*
+*Microdynamics of Creative Destruction: Causal Evidence from Patent Renewals*
+*The Social Costs of Changing the Patentability Standard*
 
-**The Effectiveness of Screening in the European Patent Office**
-
-**Microdynamics of Creative Destruction: Causal Evidence from Patent Renewals**
-
-**The Social Costs of Changing the Patentability Standard**
-
-**Simultaneous Sample Selection models**
-
+**On Econometrics**
+*Simultaneous Sample Selection models*
 
