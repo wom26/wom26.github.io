@@ -32,7 +32,7 @@ Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk
 *The Social Costs of Changing the Patentability Standard* <br>
 
 **On Household Finance:** <br>
-*The Effects of Income Shocks on Asset Allocation and Wealth Inequality* with [Akash Raja](https://www.akashraja.com/research)
+*The Effects of Income Shocks on Asset Allocation and Wealth Inequality* (with [Akash Raja](https://www.akashraja.com/home))
 
 **On Econometrics:** <br>
 *Simultaneous Sample Selection models*
