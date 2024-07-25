@@ -25,13 +25,14 @@ Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk
 
 ### Other Work in Progress
 
-**On Innovation:** <br>
+**On Innovation (with [Mark Schankerman](https://personal.lse.ac.uk/schanker/)):** <br>
 *Patent Trial and Appeal Board: Killing Valid Property Rights?* <br>
 *The Effectiveness of Screening in the European Patent Office* <br>
-*Microdynamics of Creative Destruction: Causal Evidence from Patent Renewals* <br>
+*The Microdynamics of Creative Destruction: Causal Evidence from Patent Renewals* <br>
 *The Social Costs of Changing the Patentability Standard* <br>
+
+**On Household Finance:** <br>
+*The Effects of Income Shocks on Asset Allocation and Wealth Inequality* with [Akash Raja](https://www.akashraja.com/research)
 
 **On Econometrics:** <br>
 *Simultaneous Sample Selection models*
-
-**On Household Finance:** <br>
