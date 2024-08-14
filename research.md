@@ -25,7 +25,7 @@ Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk
 
 ### Other Work in Progress
 
-**On Innovation (with [Mark Schankerman](https://personal.lse.ac.uk/schanker/)):** <br>
+**On Innovation [Contingent on Funding] (with [Mark Schankerman](https://personal.lse.ac.uk/schanker/)):** <br>
 *Patent Trial and Appeal Board: Killing Valid Property Rights?* <br>
 *The Effectiveness of Screening in the European Patent Office* <br>
 *The Microdynamics of Creative Destruction: Causal Evidence from Patent Renewals* <br>
