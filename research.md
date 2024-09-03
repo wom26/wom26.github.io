@@ -37,4 +37,4 @@ Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk
 *Patent Screening in Diverse Technology Fields* <br>
 
 **On Econometrics:** <br>
-*Simultaneous Sample Selection models*
+*Linear Simultaneous Sample Selection models*
