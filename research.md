@@ -26,7 +26,7 @@ Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk
 
 ### Policy Reports
 
-[**Patent Quality in the United States: Findings and Suggestions for Policymakers**](https://sunwater.org/wp-content/uploads/2024/09/SWI-Policy-Report-Patent-9-23-2024.pdf), with [Ani Harutyunyan](https://aniharutyunyan.com/), [Matthew Chervenak](https://sunwater.org/people/matthew-chervenak/), [Mark Schankerman](https://personal.lse.ac.uk/schanker/), and Nishant Shrestha  <br>
+[**Patent Quality in the United States: Findings and Suggestions for Policymakers**](https://sunwater.org/wp-content/uploads/2024/09/SWI-Policy-Report-Patent-9-23-2024.pdf), with Matthew Chervenak, Ani Harutyunyan, Mark Schankerman, and Nishant Shrestha <br>
 
 Coverage: [IP Watchdog](https://ipwatchdog.com/2024/10/02/patent-quality-report-finds-improper-patent-abandonment-greater-issue-improper-grants/id=181705/#)   [Law360](https://www.law360.com/ip/articles/1882769/nonprofit-finds-bad-patent-epidemic-is-just-a-myth)   [MarketWatch](https://www.marketwatch.com/press-release/council-for-innovation-promotion-celebrates-groundbreaking-sunwater-institute-study-combatting-harmful-patent-disinformation-b8ca0dbf) <br> 
 
