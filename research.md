@@ -30,8 +30,7 @@ Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk
 
 Coverage: [IP Watchdog](https://ipwatchdog.com/2024/10/02/patent-quality-report-finds-improper-patent-abandonment-greater-issue-improper-grants/id=181705/#)   [Law360](https://www.law360.com/ip/articles/1882769/nonprofit-finds-bad-patent-epidemic-is-just-a-myth)   [MarketWatch](https://www.marketwatch.com/press-release/council-for-innovation-promotion-celebrates-groundbreaking-sunwater-institute-study-combatting-harmful-patent-disinformation-b8ca0dbf) [ClaimWise](https://www.linkedin.com/pulse/sunwater-institute-urges-critical-reforms-us-patent-system-l3j3e/?trackingId=wQh9%2FFbXwq7OifrCqnrOIQ%3D%3D) <br> 
 
-
-
+<iframe width="560" height="315" src="https://youtu.be/PqsauSsg70c?si=2VAOwOqUHj0APtaa" frameborder="0" allowfullscreen></iframe>
 
 ### Other Work in Progress
 
