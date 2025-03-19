@@ -36,11 +36,10 @@ Council For Innovation Promotion (C4IP) Panel Discussion (2nd October 2024):
 
 ### Other Work in Progress
 
-<!---
 **On Household Finance:** <br>
 *The Effects of Income Shocks on Asset Allocation and Wealth Inequality* (with [Akash Raja](https://www.akashraja.com/home))
 
-**On Innovation [Contingent on Funding] (with [Mark Schankerman](https://personal.lse.ac.uk/schanker/)):** <br>
+**On Innovation (with [Mark Schankerman](https://personal.lse.ac.uk/schanker/)):** <br>
 *Patent Trial and Appeal Board: Killing Property Rights?* <br>
 *Evaluating Screening in the European Patent Office* <br>
 *Micro-Dynamics of Creative Destruction: Causal Evidence from Patent Renewals* <br>
@@ -48,6 +47,8 @@ Council For Innovation Promotion (C4IP) Panel Discussion (2nd October 2024):
 *Patent Screening in Diverse Technology Fields* <br>
 
 **On Econometrics:** <br>
--->
-
 *Linear Simultaneous Sample Selection models*
+
+
+<!---
+-->
