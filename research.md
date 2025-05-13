@@ -26,8 +26,9 @@ Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk
 
 ### Work in Progress
 
-**On Household Finance:** <br>
+**On Finance:** <br>
 *The Effects of Income Shocks on Asset Allocation and Wealth Inequality* (with [Akash Raja](https://www.akashraja.com/home))
+*The Design of Misconduct Redress: Evidence from the UK Financial Ombudsman*
 
 **On Innovation (with [Mark Schankerman](https://personal.lse.ac.uk/schanker/)):** <br>
 *Patent Trial and Appeal Board: Killing Property Rights?* <br>
