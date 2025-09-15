@@ -53,7 +53,9 @@ Council For Innovation Promotion (C4IP) Panel Discussion (2nd October 2024):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PqsauSsg70c?si=zzTeGUjL_5YaR4ux" frameborder="0" allowfullscreen></iframe>
 </div>
 
+[**Patent Quality Policy Brief**](img/pat_qual_pol_brief_matcham.pdf), with Ani Harutyunyan <br>
 
+[**Patent Quality Fact Sheets**](img/pat_qual_fact_sheet_matcham.pdf), with Ani Harutyunyan
 
 <!---
 -->
