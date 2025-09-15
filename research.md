@@ -45,7 +45,7 @@ Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk
 ### Policy Reports
 
 [**Patent Quality Policy Brief**](img/pat_qual_pol_brief_matcham.pdf), with Ani Harutyunyan <br>
-[**Patent Quality Fact Sheets**](img/pat_qual_fact_sheet_matcham.pdf), with Ani Harutyunyan
+[**Patent Quality Fact Sheet**](img/pat_qual_fact_sheet_matcham.pdf), with Ani Harutyunyan
 
 [**Patent Quality in the United States: Findings and Suggestions for Policymakers**](https://sunwater.org/wp-content/uploads/2024/09/SWI-Policy-Report-Patent-9-23-2024.pdf), with Matthew Chervenak, Ani Harutyunyan, Mark Schankerman, and Nishant Shrestha <br>
 
