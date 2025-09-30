@@ -39,7 +39,7 @@ Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk
 *Patent Screening in Diverse Technology Fields* <br>
 
 **On Econometrics:** <br>
-*Multivariate Lattice Models: Semiparametric and Parametric Identification* (with Tatiana Komarova)
+*Multivariate Lattice Models: Semiparametric and Parametric Identification* (with Tatiana Komarova) <br>
 *Linear Simultaneous Sample Selection models*
 
 
