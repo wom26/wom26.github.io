@@ -21,26 +21,13 @@ Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk
 
 <p style='text-align: justify;'> <span style="font-size:1em;"> I use novel statement-level data on the 2010—2015 UK credit card market to show that lenders individualize contracts through risk-based credit limits. Though shared with other European credit markets, this feature contrasts with the US counterpart, where interest rates are also individualized. To quantify the implications of this distinction, I estimate a structural model relating individualized interest rates and credit limits to lender-specific credit scores. I evaluate a counterfactual where lenders can freely tailor prices and credit limits, which the UK environment precludes. Lenders control default risk with credit limits and use prices to extract surplus from inelastic borrowers. </span> </p>
 
-[**Multivariate Ordered Discrete Response Models**](img/KM20230215.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4103429), with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/) <br>
+[**Multivariate Ordered Discrete Response Models with Two Layers of Dependence**](img/KM20251105_nonlattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4103429), with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/) <br> *Submitted*
 
-<p style='text-align: justify;'> <span style="font-size:1em;"> We introduce multivariate ordered discrete response models with general rectangular structures. From the perspective of behavioral economics, these non-lattice models correspond to broad bracketing in decision making, whereas lattice models, which researchers typically estimate in practice, correspond to narrow bracketing. In these models, we specify latent processes as a sum of an index of covariates and an unobserved error, with unobservables for different latent processes potentially correlated. We provide conditions that are sufficient for identification under the independence of errors and covariates and outline an estimation approach. We present simulations and empirical examples, with a particular focus on probit specifications. </span> </p>
+<p style='text-align: justify;'> <span style="font-size:1em;"> We develop a class of multivariate ordered discrete response models featuring general rectangular structures, which allow for functionally interdependent thresholds across dimensions, extending beyond traditional (lattice) models that assume threshold independence. The new models incorporate two layers of dependence: one arising from the interdependence of decision rules (capturing broad bracketing behaviors) and another from the correlation of latent utilities conditional on observables. We provide microfoundations, explore semiparametric and parametric specifications, and establish identification conditions under  {logical} consistency in decision-making. An empirical application to health insurance markets demonstrates the advantages of this new framework, showing how it disentangles moral hazard (captured via threshold dependence) from adverse selection (isolated in unobservable correlations), offering insights into behavioral responses obscured by lattice models. </span> </p>
 
-### Work in Progress
+[**Multivariate Ordered Discrete Response Models with Lattice Structures**](img/KM20251105_lattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5702682) (with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/)) <br>
 
-**On Finance:** <br>
-*The Effects of Income Shocks on Asset Allocation and Wealth Inequality* (with [Akash Raja](https://www.akashraja.com/home)) <br>
-*The Design of Misconduct Redress: Evidence from the UK Financial Ombudsman*
-
-**On Innovation (with [Mark Schankerman](https://personal.lse.ac.uk/schanker/)):** <br>
-*Patent Trial and Appeal Board: Killing Property Rights?* <br>
-*Evaluating Screening in the European Patent Office* <br>
-*Micro-Dynamics of Creative Destruction: Causal Evidence from Patent Renewals* <br>
-*Assessing the Patentability Standard* <br>
-*Patent Screening in Diverse Technology Fields* <br>
-
-**On Econometrics:** <br>
-*Multivariate Lattice Models: Semiparametric and Parametric Identification* (with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/)) <br>
-*Linear Simultaneous Sample Selection models*
+<p style='text-align: justify;'> <span style="font-size:1em;"> We analyze multivariate ordered discrete response models with a lattice structure, modeling decision makers who narrowly bracket choices across multiple dimensions. These models map latent continuous processes into discrete responses using functionally independent decision thresholds. In a semiparametric framework, we model latent processes as sums of covariate indices and unobserved errors, deriving conditions for identifying parameters, thresholds, and the joint cumulative distribution function of errors. For the parametric bivariate probit case, we separately derive identification of regression parameters and thresholds, and the correlation parameter, with the latter requiring additional covariate conditions. We outline estimation approaches for semiparametric and parametric models and present simulations illustrating the performance of estimators for lattice models.  </span> </p>
 
 
 ### Policy Reports
@@ -56,6 +43,25 @@ Council For Innovation Promotion (C4IP) Panel Discussion (2nd October 2024):
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PqsauSsg70c?si=zzTeGUjL_5YaR4ux" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
+
+### Work in Progress
+
+**On Finance:** <br>
+*The Effects of Income Shocks on Asset Allocation and Wealth Inequality* (with [Akash Raja](https://www.akashraja.com/home)) <br>
+*The Design of Misconduct Redress: Evidence from the UK Financial Ombudsman*
+
+**On Innovation (with [Mark Schankerman](https://personal.lse.ac.uk/schanker/)):** <br>
+*Patent Trial and Appeal Board: Killing Property Rights?* <br>
+*Evaluating Screening in the European Patent Office* <br>
+*Micro-Dynamics of Creative Destruction: Causal Evidence from Patent Renewals* <br>
+*Assessing the Patentability Standard* <br>
+*Patent Screening in Diverse Technology Fields* <br>
+
+**On Econometrics:** <br>
+*Linear Simultaneous Sample Selection models*
+
 
 <!---
 -->
