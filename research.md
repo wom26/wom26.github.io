@@ -60,7 +60,3 @@ Council For Innovation Promotion (C4IP) Panel Discussion (2nd October 2024):
 *Patent Screening in Diverse Technology Fields* <br>
 <!---
 -->
-
-[This is a comment that will be hidden. with [Nuno Clara](https://www.nunoclara.com/) and ]: # 
-
-
