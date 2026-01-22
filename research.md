@@ -49,7 +49,7 @@ Council For Innovation Promotion (C4IP) Panel Discussion (2nd October 2024):
 ### Work in Progress
 
 **On Finance:** <br>
-*The Effects of Income Shocks on Asset Allocation and Wealth Inequality* (with [Akash Raja](https://www.akashraja.com/home)) <br>
+*The Effects of Income Shocks on Asset Allocation and Wealth Inequality* (with [Akash Raja](https://www.akashraja.com/home) and [Nuno Clara](https://www.nunoclara.com/)) <br>
 *The Design of Misconduct Redress: Evidence from the UK Financial Ombudsman*
 
 **On Innovation (Joint work, funded by ERC Advanced Grant of [Mark Schankerman](https://personal.lse.ac.uk/schanker/)):** <br>
