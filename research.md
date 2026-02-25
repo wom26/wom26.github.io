@@ -15,13 +15,14 @@ title: Research
 .paper-dropdown summary {
   display: inline-block;
   cursor: pointer;
-  padding: 0.35em 0.7em;
+  padding: 0.15em 0.4em;   /* smaller than before */
   border: 1px solid #ccc;
   border-radius: 6px;
   background: #f7f7f7;
   font-weight: 600;
+  font-size: 0.80em;       /* smaller text */
   list-style: none;
-  white-space: nowrap;         /* prevents button text wrapping */
+  white-space: nowrap;
 }
 
 .paper-dropdown summary::-webkit-details-marker {
