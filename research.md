@@ -5,51 +5,62 @@ title: Research
 ---
 
 <style>
-.paper-dropdown {
-  position: relative;          /* key */
-  display: inline-block;
-  margin: 0.4em 0.35em 0.8em 0;
-  vertical-align: top;
+.paper-tools {
+  display: grid;
+  grid-template-columns: max-content max-content;
+  column-gap: 0.35em;
+  row-gap: 0.45em;
+  align-items: start;
+  margin: 0.4em 0 1em 0;
 }
 
-.paper-dropdown summary {
+/* key trick: let summary + panel participate directly in the grid */
+.paper-tools > .paper-dropdown {
+  display: contents;
+}
+
+.paper-tools > .paper-dropdown > summary {
   display: inline-block;
   cursor: pointer;
-  padding: 0.15em 0.4em;   /* smaller than before */
+  padding: 0.15em 0.4em;   /* smaller padding */
   border: 1px solid #ccc;
   border-radius: 6px;
   background: #f7f7f7;
   font-weight: 600;
-  font-size: 0.80em;       /* smaller text */
+  font-size: 0.8em;       /* smaller font */
   list-style: none;
   white-space: nowrap;
 }
 
-.paper-dropdown summary::-webkit-details-marker {
+.paper-tools > .paper-dropdown > summary::-webkit-details-marker {
   display: none;
 }
 
-.paper-dropdown summary::before {
+.paper-tools > .paper-dropdown > summary::before {
   content: "▸ ";
+  font-size: 0.9em;
 }
 
-.paper-dropdown[open] summary::before {
+.paper-tools > .paper-dropdown[open] > summary::before {
   content: "▾ ";
 }
 
-.paper-panel {
-  position: absolute;          /* key: remove panel from flow */
-  left: 0;
-  top: calc(100% + 0.45em);
-  z-index: 20;
+/* panel appears below BOTH buttons and pushes content down */
+.paper-tools > .paper-dropdown > .paper-panel {
+  grid-column: 1 / -1;
+  display: none;
+  justify-self: start;
 
-  margin-top: 0;
+  width: min(900px, 95vw);
+  box-sizing: border-box;
   padding: 0.6em 0.8em;
   border: 1px solid #e3e3e3;
   border-radius: 6px;
   background: #fafafa;
-  width: min(900px, 90vw);     /* nice responsive width */
-  box-sizing: border-box;
+}
+
+.paper-tools > .paper-dropdown[open] > .paper-panel {
+  display: block;
 }
 
 .paper-panel pre {
@@ -64,6 +75,8 @@ title: Research
 }
 </style>
 
+
+
 <base target="_blank">
 
 ### Working Papers
@@ -71,6 +84,18 @@ title: Research
 Conditionally Accepted, *Econometrica* <br>
 Coverage: [C-IP2](https://cip2.gmu.edu/2023/10/04/using-economic-models-to-evaluate-the-efficacy-of-u-s-patent-examination/) <br> Recording of intro: [Spotify](https://open.spotify.com/episode/1n0MKTUkXJc1FbWsiAy5BQ?si=i805Z6Z-S4CFBWDGyA7RUw) [Acast](https://shows.acast.com/matchams-research-paper-introductions/episodes/screening-property-right-for-innovation) [Apple](https://podcasts.apple.com/us/podcast/screening-property-right-for-innovation/id1714279823?i=1000633111884) [Amazon Music](https://music.amazon.co.uk/podcasts/5db97e90-6542-4e6f-81dd-ef3ca637514b/episodes/dd492ecc-651b-4187-801d-1ccbb625119f/matcham's-research-paper-introductions-screening-property-right-for-innovation)  <br>
 Presentations: [Zvi Conference 2024](https://www.youtube.com/watch?v=CRdLmHuQOwY&ab_channel=Sciencessociales-Coll%C3%A8gedeFrance)
+
+<div class="paper-tools">
+  <details class="paper-dropdown">
+    <summary>Abstract</summary>
+    <div class="paper-panel abstract-panel">
+      We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multi-round negotiation. We use natural language processing to create a new measure of patent distance, which, together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of negotiation rounds significantly reduce social costs.
+    </div>
+  </details>
+</div>
+
+
+
 <details class="paper-dropdown">
   <summary>Abstract</summary>
   <div class="paper-panel abstract-panel">
