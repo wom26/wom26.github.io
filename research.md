@@ -80,25 +80,20 @@ title: Research
 <base target="_blank">
 
 ### Working Papers
-[**Screening Property Rights for Innovation**](img/ms_2026_01_20_main_text.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519999), with [Mark Schankerman](https://personal.lse.ac.uk/schanker/) ([Online Appendices](img/ms_2026_01_20_online_appendices.pdf)) <br>
+[**Screening Property Rights for Innovation**](img/ms_2026_01_20_main_text.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519999), with [Mark Schankerman](https://personal.lse.ac.uk/schanker/) ([Online Appendices](img/ms_2026_01_20_online_appendices.pdf)) [BibTeX]()  <br>
 Conditionally Accepted, *Econometrica* <br>
 Coverage: [C-IP2](https://cip2.gmu.edu/2023/10/04/using-economic-models-to-evaluate-the-efficacy-of-u-s-patent-examination/) <br> 
 Presentations: [Zvi Conference 2024](https://www.youtube.com/watch?v=CRdLmHuQOwY&ab_channel=Sciencessociales-Coll%C3%A8gedeFrance) <br>
-[BibTeX]() <br>
 
-[**Risk-Based Borrowing Limits in Credit Card Markets**](img/rbbl_main_03_07_website_2025_03_10.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926974) ([Online Appendices](img/rbbl_online_03_07_website_2025_03_10.pdf)) [[Extra Note](img/rbbl_note_03_07_website_2025_03_10.pdf)] <br>
+[**Risk-Based Borrowing Limits in Credit Card Markets**](img/rbbl_main_03_07_website_2025_03_10.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926974) ([Online Appendices](img/rbbl_online_03_07_website_2025_03_10.pdf)) [[Extra Note](img/rbbl_note_03_07_website_2025_03_10.pdf)] [BibTeX]()  <br>
 Revise and Resubmit (1st round), *Journal of Financial Economics* <br> 
 Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk-based-credit-limits-uk-credit-card-market) <br>
-[BibTeX]() <br>
 
-[**Multivariate Ordered Discrete Response Models with Two Layers of Dependence**](img/KM20251105_nonlattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4103429), with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/) <br> *Submitted* <br>
-[BibTeX]() <br>
+[**Multivariate Ordered Discrete Response Models with Two Layers of Dependence**](img/KM20251105_nonlattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4103429), with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/) [BibTeX]()  <br> *Submitted* <br>
 
-[**Multivariate Ordered Discrete Response Models with Lattice Structures**](img/KM20251108_lattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5702682) (with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/)) <br>
-[BibTeX]() <br>
+[**Multivariate Ordered Discrete Response Models with Lattice Structures**](img/KM20251108_lattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5702682) (with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/)) [BibTeX]()  <br>
 
-[**Institutional Design of Misconduct Redress: Evidence from the Financial Ombudsman**](img/fos_15.pdf) [(SSRN)](https://papers.ssrn.com/) ([Online Appendices](img/fos_15_online.pdf)) <br>
-[BibTeX]() <br>
+[**Institutional Design of Misconduct Redress: Evidence from the Financial Ombudsman**](img/fos_15.pdf) [(SSRN)](https://papers.ssrn.com/) ([Online Appendices](img/fos_15_online.pdf)) [BibTeX]()  <br>
 
 ### Policy Reports
 
