@@ -88,7 +88,7 @@ Presentations: [Zvi Conference 2024](https://www.youtube.com/watch?v=CRdLmHuQOwY
   <details class="paper-dropdown">
     <summary>Abstract</summary>
     <div class="paper-panel abstract-panel">
-      We develop a dynamic structural model of patent screening...
+      We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multi-round negotiation. We use natural language processing to create a new measure of patent distance, which, together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of negotiation rounds significantly reduce social costs.
     </div>
   </details>
   <details class="paper-dropdown">
@@ -104,69 +104,70 @@ Presentations: [Zvi Conference 2024](https://www.youtube.com/watch?v=CRdLmHuQOwY
   </details>
 </div>
 
-
-
-
-
-
-<details style="margin: 0.5em 0 1.2em 0;">
-  <summary style="display:inline-block; cursor:pointer; padding:0.2em 0.45em; border:1px solid #ccc; border-radius:6px; background:#f7f7f7; font-weight:600; font-size:0.85em;">
-    Abstract
-  </summary>
-  <div style="margin-top:0.6em; text-align:justify;">
-    <span style="font-size:1em;">
-      We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multi-round negotiation. We use natural language processing to create a new measure of patent distance, which, together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of negotiation rounds significantly reduce social costs.
-    </span>
-  </div>
-</details>
-<details style="margin: 0.5em 0 1.2em 0;">
-  <summary style="display:inline-block; cursor:pointer; padding:0.2em 0.45em; border:1px solid #ccc; border-radius:6px; background:#f7f7f7; font-weight:600; font-size:0.85em;">
-    BibTeX
-  </summary>
-  <div style="margin-top:0.6em; text-align:justify;">
-    <span style="font-size:1em;">
+[**Risk-Based Borrowing Limits in Credit Card Markets**](img/rbbl_main_03_07_website_2025_03_10.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926974) ([Online Appendices](img/rbbl_online_03_07_website_2025_03_10.pdf)) [[Extra Note](img/rbbl_note_03_07_website_2025_03_10.pdf)] <br>
+Revise and Resubmit (1st round), *Journal of Financial Economics* <br> <br>
+Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk-based-credit-limits-uk-credit-card-market) <br> Recording of intro: [Spotify](https://open.spotify.com/episode/3ngwvtfcbdiufCsbtmFuQx?si=Eu0MGm5IS5emRpQ2S7trSA) [Acast](https://shows.acast.com/matchams-research-paper-introductions/episodes/risk-based-borrowing-limits) [Apple](https://podcasts.apple.com/us/podcast/risk-based-borrowing-limits-in-credit-card-markets/id1714279823?i=1000666018648) [Amazon Music](https://music.amazon.co.uk/podcasts/5db97e90-6542-4e6f-81dd-ef3ca637514b/episodes/4610a634-3b96-46fe-8178-807c2c192777/matcham's-research-paper-introductions-risk-based-borrowing-limits-in-credit-card-markets) <br>
+<div class="paper-tools">
+  <details class="paper-dropdown">
+    <summary>Abstract</summary>
+    <div class="paper-panel abstract-panel">
+      I use novel statement-level data on the 2010—2015 UK credit card market to show that lenders individualize contracts through risk-based credit limits. Though shared with other European credit markets, this feature contrasts with the US counterpart, where interest rates are also individualized. To quantify the implications of this distinction, I estimate a structural model relating individualized interest rates and credit limits to lender-specific credit scores. I evaluate a counterfactual where lenders can freely tailor prices and credit limits, which the UK environment precludes. Lenders control default risk with credit limits and use prices to extract surplus from inelastic borrowers.
+    </div>
+  </details>
+  <details class="paper-dropdown">
+    <summary>BibTeX</summary>
+    <div class="paper-panel">
       <pre><code>@article{matcham_schankerman_2026,
   author  = {William Matcham and Mark Schankerman},
   title   = {Screening Property Rights for Innovation},
   journal = {Econometrica},
   year    = {2026}
 }</code></pre>
-    </span>
-  </div>
-</details>
-
-<div class="paper-tools">
-  <details class="paper-dropdown">
-    <summary>Abstract</summary>
-    <div class="paper-panel abstract-panel">
-      We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multi-round negotiation. We use natural language processing to create a new measure of patent distance, which, together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of negotiation rounds significantly reduce social costs.
     </div>
   </details>
 </div>
 
-
-
-<details class="paper-dropdown">
-  <summary>Abstract</summary>
-  <div class="paper-panel abstract-panel">
-    We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multi-round negotiation. We use natural language processing to create a new measure of patent distance, which, together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of negotiation rounds significantly reduce social costs.
-  </div>
-</details>
-
-[**Risk-Based Borrowing Limits in Credit Card Markets**](img/rbbl_main_03_07_website_2025_03_10.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926974) ([Online Appendices](img/rbbl_online_03_07_website_2025_03_10.pdf)) [[Extra Note](img/rbbl_note_03_07_website_2025_03_10.pdf)] <br>
-Revise and Resubmit (1st round), *Journal of Financial Economics* <br> <br>
-Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk-based-credit-limits-uk-credit-card-market) <br> Recording of intro: [Spotify](https://open.spotify.com/episode/3ngwvtfcbdiufCsbtmFuQx?si=Eu0MGm5IS5emRpQ2S7trSA) [Acast](https://shows.acast.com/matchams-research-paper-introductions/episodes/risk-based-borrowing-limits) [Apple](https://podcasts.apple.com/us/podcast/risk-based-borrowing-limits-in-credit-card-markets/id1714279823?i=1000666018648) [Amazon Music](https://music.amazon.co.uk/podcasts/5db97e90-6542-4e6f-81dd-ef3ca637514b/episodes/4610a634-3b96-46fe-8178-807c2c192777/matcham's-research-paper-introductions-risk-based-borrowing-limits-in-credit-card-markets) <br>
-
-<p style='text-align: justify;'> <span style="font-size:1em;"> I use novel statement-level data on the 2010—2015 UK credit card market to show that lenders individualize contracts through risk-based credit limits. Though shared with other European credit markets, this feature contrasts with the US counterpart, where interest rates are also individualized. To quantify the implications of this distinction, I estimate a structural model relating individualized interest rates and credit limits to lender-specific credit scores. I evaluate a counterfactual where lenders can freely tailor prices and credit limits, which the UK environment precludes. Lenders control default risk with credit limits and use prices to extract surplus from inelastic borrowers. </span> </p>
-
-[**Multivariate Ordered Discrete Response Models with Two Layers of Dependence**](img/KM20251105_nonlattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4103429), with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/) <br> *Submitted*
-
-<p style='text-align: justify;'> <span style="font-size:1em;"> We develop a class of multivariate ordered discrete response models featuring general rectangular structures, which allow for functionally interdependent thresholds across dimensions, extending beyond traditional (lattice) models that assume threshold independence. The new models incorporate two layers of dependence: one arising from the interdependence of decision rules (capturing broad bracketing behaviors) and another from the correlation of latent utilities conditional on observables. We provide microfoundations, explore semiparametric and parametric specifications, and establish identification conditions under logical consistency in decision-making. An empirical application to health insurance markets demonstrates the advantages of this new framework, showing how it disentangles moral hazard (captured via threshold dependence) from adverse selection (isolated in unobservable correlations), offering insights into behavioral responses obscured by lattice models. </span> </p>
+[**Multivariate Ordered Discrete Response Models with Two Layers of Dependence**](img/KM20251105_nonlattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4103429), with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/) <br> *Submitted* <br>
+<div class="paper-tools">
+  <details class="paper-dropdown">
+    <summary>Abstract</summary>
+    <div class="paper-panel abstract-panel">
+      We develop a class of multivariate ordered discrete response models featuring general rectangular structures, which allow for functionally interdependent thresholds across dimensions, extending beyond traditional (lattice) models that assume threshold independence. The new models incorporate two layers of dependence: one arising from the interdependence of decision rules (capturing broad bracketing behaviors) and another from the correlation of latent utilities conditional on observables. We provide microfoundations, explore semiparametric and parametric specifications, and establish identification conditions under logical consistency in decision-making. An empirical application to health insurance markets demonstrates the advantages of this new framework, showing how it disentangles moral hazard (captured via threshold dependence) from adverse selection (isolated in unobservable correlations), offering insights into behavioral responses obscured by lattice models. 
+    </div>
+  </details>
+  <details class="paper-dropdown">
+    <summary>BibTeX</summary>
+    <div class="paper-panel">
+      <pre><code>@article{matcham_schankerman_2026,
+  author  = {William Matcham and Mark Schankerman},
+  title   = {Screening Property Rights for Innovation},
+  journal = {Econometrica},
+  year    = {2026}
+}</code></pre>
+    </div>
+  </details>
+</div>
 
 [**Multivariate Ordered Discrete Response Models with Lattice Structures**](img/KM20251108_lattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5702682) (with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/)) <br>
-
-<p style='text-align: justify;'> <span style="font-size:1em;"> We analyze multivariate ordered discrete response models with a lattice structure, modeling decision makers who narrowly bracket choices across multiple dimensions. These models map latent continuous processes into discrete responses using functionally independent decision thresholds. In a semiparametric framework, we model latent processes as sums of covariate indices and unobserved errors, deriving conditions for identifying parameters, thresholds, and the joint cumulative distribution function of errors. For the parametric bivariate probit case, we separately derive identification of regression parameters and thresholds, and the correlation parameter, with the latter requiring additional covariate conditions. We outline estimation approaches for semiparametric and parametric models and present simulations illustrating the performance of estimators for lattice models.  </span> </p>
-
+<div class="paper-tools">
+  <details class="paper-dropdown">
+    <summary>Abstract</summary>
+    <div class="paper-panel abstract-panel">
+      We analyze multivariate ordered discrete response models with a lattice structure, modeling decision makers who narrowly bracket choices across multiple dimensions. These models map latent continuous processes into discrete responses using functionally independent decision thresholds. In a semiparametric framework, we model latent processes as sums of covariate indices and unobserved errors, deriving conditions for identifying parameters, thresholds, and the joint cumulative distribution function of errors. For the parametric bivariate probit case, we separately derive identification of regression parameters and thresholds, and the correlation parameter, with the latter requiring additional covariate conditions. We outline estimation approaches for semiparametric and parametric models and present simulations illustrating the performance of estimators for lattice models.
+    </div>
+  </details>
+  <details class="paper-dropdown">
+    <summary>BibTeX</summary>
+    <div class="paper-panel">
+      <pre><code>@article{matcham_schankerman_2026,
+  author  = {William Matcham and Mark Schankerman},
+  title   = {Screening Property Rights for Innovation},
+  journal = {Econometrica},
+  year    = {2026}
+}</code></pre>
+    </div>
+  </details>
+</div>
 
 ### Policy Reports
 
