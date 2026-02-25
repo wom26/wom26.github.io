@@ -84,6 +84,30 @@ title: Research
 Conditionally Accepted, *Econometrica* <br>
 Coverage: [C-IP2](https://cip2.gmu.edu/2023/10/04/using-economic-models-to-evaluate-the-efficacy-of-u-s-patent-examination/) <br> Recording of intro: [Spotify](https://open.spotify.com/episode/1n0MKTUkXJc1FbWsiAy5BQ?si=i805Z6Z-S4CFBWDGyA7RUw) [Acast](https://shows.acast.com/matchams-research-paper-introductions/episodes/screening-property-right-for-innovation) [Apple](https://podcasts.apple.com/us/podcast/screening-property-right-for-innovation/id1714279823?i=1000633111884) [Amazon Music](https://music.amazon.co.uk/podcasts/5db97e90-6542-4e6f-81dd-ef3ca637514b/episodes/dd492ecc-651b-4187-801d-1ccbb625119f/matcham's-research-paper-introductions-screening-property-right-for-innovation)  <br>
 Presentations: [Zvi Conference 2024](https://www.youtube.com/watch?v=CRdLmHuQOwY&ab_channel=Sciencessociales-Coll%C3%A8gedeFrance)
+<div class="paper-tools">
+  <details class="paper-dropdown">
+    <summary>Abstract</summary>
+    <div class="paper-panel abstract-panel">
+      We develop a dynamic structural model of patent screening...
+    </div>
+  </details>
+  <details class="paper-dropdown">
+    <summary>BibTeX</summary>
+    <div class="paper-panel">
+      <pre><code>@article{matcham_schankerman_2026,
+  author  = {William Matcham and Mark Schankerman},
+  title   = {Screening Property Rights for Innovation},
+  journal = {Econometrica},
+  year    = {2026}
+}</code></pre>
+    </div>
+  </details>
+</div>
+
+
+
+
+
 
 <details style="margin: 0.5em 0 1.2em 0;">
   <summary style="display:inline-block; cursor:pointer; padding:0.2em 0.45em; border:1px solid #ccc; border-radius:6px; background:#f7f7f7; font-weight:600; font-size:0.85em;">
