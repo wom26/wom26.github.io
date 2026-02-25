@@ -74,47 +74,9 @@ Presentations: [Zvi Conference 2024](https://www.youtube.com/watch?v=CRdLmHuQOwY
 <details class="paper-dropdown">
   <summary>Abstract</summary>
   <div class="paper-panel abstract-panel">
-    We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multi-round negotiation...
+    We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multi-round negotiation. We use natural language processing to create a new measure of patent distance, which, together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of negotiation rounds significantly reduce social costs.
   </div>
 </details>
-
-<details class="paper-dropdown">
-  <summary>BibTeX</summary>
-  <div class="paper-panel">
-    <pre><code>@article{matcham_schankerman_2026,
-  author  = {William Matcham and Mark Schankerman},
-  title   = {Screening Property Rights for Innovation},
-  journal = {Econometrica},
-  year    = {2026},
-  note    = {Conditionally Accepted}
-}</code></pre>
-  </div>
-</details>
-
-<details style="margin: 0.5em 0 1.2em 0;">
-  <summary style="display:inline-block; cursor:pointer; padding:0.35em 0.7em; border:1px solid #ccc; border-radius:6px; background:#f7f7f7; font-weight:600;">
-    Abstract
-  </summary>
-  <div style="margin-top:0.6em; text-align:justify;">
-    <span style="font-size:1em;">
-      We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multi-round negotiation. We use natural language processing to create a new measure of patent distance, which, together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms limiting the number of negotiation rounds significantly reduce social costs.
-    </span>
-  </div>
-</details>
-
-
-
-
-
-
-[**Screening Property Rights for Innovation**](img/ms_2026_01_20_main_text.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519999), with [Mark Schankerman](https://personal.lse.ac.uk/schanker/) ([Online Appendices](img/ms_2026_01_20_online_appendices.pdf)) <br>
-Conditionally Accepted, *Econometrica* <br> <br>
-Coverage: [C-IP2](https://cip2.gmu.edu/2023/10/04/using-economic-models-to-evaluate-the-efficacy-of-u-s-patent-examination/) <br> Recording of intro: [Spotify](https://open.spotify.com/episode/1n0MKTUkXJc1FbWsiAy5BQ?si=i805Z6Z-S4CFBWDGyA7RUw) [Acast](https://shows.acast.com/matchams-research-paper-introductions/episodes/screening-property-right-for-innovation) [Apple](https://podcasts.apple.com/us/podcast/screening-property-right-for-innovation/id1714279823?i=1000633111884) [Amazon Music](https://music.amazon.co.uk/podcasts/5db97e90-6542-4e6f-81dd-ef3ca637514b/episodes/dd492ecc-651b-4187-801d-1ccbb625119f/matcham's-research-paper-introductions-screening-property-right-for-innovation)  <br>
-Presentations: [Zvi Conference 2024](https://www.youtube.com/watch?v=CRdLmHuQOwY&ab_channel=Sciencessociales-Coll%C3%A8gedeFrance) 
-
-<p style='text-align: justify;'> <span style="font-size:1em;"> We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multi-round negotiation. We use natural language processing to create a new measure of patent distance, which, together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the
-estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&D in the U.S. and show that reforms
-limiting the number of negotiation rounds significantly reduce social costs.  </span> </p>
 
 [**Risk-Based Borrowing Limits in Credit Card Markets**](img/rbbl_main_03_07_website_2025_03_10.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926974) ([Online Appendices](img/rbbl_online_03_07_website_2025_03_10.pdf)) [[Extra Note](img/rbbl_note_03_07_website_2025_03_10.pdf)] <br>
 Revise and Resubmit (1st round), *Journal of Financial Economics* <br> <br>
