@@ -6,10 +6,12 @@ title: Research
 
 <style>
 .paper-dropdown {
+  position: relative;          /* key */
   display: inline-block;
   margin: 0.4em 0.35em 0.8em 0;
   vertical-align: top;
 }
+
 .paper-dropdown summary {
   display: inline-block;
   cursor: pointer;
@@ -19,30 +21,43 @@ title: Research
   background: #f7f7f7;
   font-weight: 600;
   list-style: none;
+  white-space: nowrap;         /* prevents button text wrapping */
 }
+
 .paper-dropdown summary::-webkit-details-marker {
   display: none;
 }
+
 .paper-dropdown summary::before {
   content: "▸ ";
 }
+
 .paper-dropdown[open] summary::before {
   content: "▾ ";
 }
+
 .paper-panel {
-  margin-top: 0.5em;
+  position: absolute;          /* key: remove panel from flow */
+  left: 0;
+  top: calc(100% + 0.45em);
+  z-index: 20;
+
+  margin-top: 0;
   padding: 0.6em 0.8em;
   border: 1px solid #e3e3e3;
   border-radius: 6px;
   background: #fafafa;
-  max-width: 900px;
+  width: min(900px, 90vw);     /* nice responsive width */
+  box-sizing: border-box;
 }
+
 .paper-panel pre {
   margin: 0;
-  white-space: pre-wrap;   /* wraps long lines */
+  white-space: pre-wrap;
   word-break: break-word;
   font-size: 0.9em;
 }
+
 .abstract-panel {
   text-align: justify;
 }
