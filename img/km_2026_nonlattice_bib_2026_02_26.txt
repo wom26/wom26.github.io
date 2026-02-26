@@ -1,0 +1,7 @@
+@article{komarova_2026_nonlattice,
+  author  = {William Matcham},
+  title   = {Multivariate Ordered Discrete Response Models with Two Layers of Dependence},
+  journal = {SSRN Working Paper},
+  year    = {2026},
+  note = {\newline {\texttt{http://dx.doi.org/10.2139/ssrn.4103429}}}
+}

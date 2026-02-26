@@ -1,0 +1,7 @@
+@article{komarova_2026_lattice,
+  author  = {William Matcham},
+  title   = {Multivariate Ordered Discrete Response Models with Lattice Structures},
+  journal = {SSRN Working Paper},
+  year    = {2026},
+  note = {\newline {\texttt{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5702682}}}
+}

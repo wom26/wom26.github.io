@@ -1,0 +1,7 @@
+@article{matcham_2026_rbbl,
+  author  = {William Matcham},
+  title   = {Risk-Based Borrowing Limits in Credit Card Markets},
+  journal = {SSRN Working Paper},
+  year    = {2026},
+  note = {{\newline \texttt{http://dx.doi.org/10.2139/ssrn.4926974}}}
+}
