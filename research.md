@@ -86,6 +86,7 @@ Presentations: [Zvi Conference 2024](https://www.youtube.com/watch?v=CRdLmHuQOwY
 [**Risk-Based Borrowing Limits in Credit Card Markets**](img/rbbl_main_03_07_website_2025_03_10.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926974) ([Online Appendices](img/rbbl_online_03_07_website_2025_03_10.pdf)) [[Extra Note](img/rbbl_note_03_07_website_2025_03_10.pdf)] [BibTeX]()  <br>
 Revise and Resubmit (1st round), *Journal of Financial Economics* <br> 
 Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk-based-credit-limits-uk-credit-card-market) <br>
+
 [**Institutional Design of Misconduct Redress: Evidence from the Financial Ombudsman**]() [(SSRN)]() [BibTeX]()  <br>
 
 [**Multivariate Ordered Discrete Response Models with Two Layers of Dependence**](img/KM20251105_nonlattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4103429), with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/) [BibTeX]()  <br> *Submitted* <br>
