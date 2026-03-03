@@ -1,0 +1,7 @@
+@article{matcham_2026_fos,
+  author  = {William Matcham},
+  title   = {Institutional Design of Misconduct Redress: Evidence from the Financial Ombudsman},
+  journal = {SSRN Working Paper},
+  year    = {2026},
+  note = {{\newline \texttt{https://ssrn.com/abstract=6308658}}}
+}
