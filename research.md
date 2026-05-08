@@ -84,7 +84,7 @@ Coverage: [C-IP2](https://cip2.gmu.edu/2023/10/04/using-economic-models-to-evalu
 Presentations: [Zvi Conference 2024](https://www.youtube.com/watch?v=CRdLmHuQOwY&ab_channel=Sciencessociales-Coll%C3%A8gedeFrance) <br>
 
 [**Risk-Based Borrowing Limits in Credit Card Markets**](img/rbbl_main_03_07_website_2025_03_10.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926974) ([Online Appendices](img/rbbl_online_03_07_website_2025_03_10.pdf)) [[Extra Note](img/rbbl_note_03_07_website_2025_03_10.pdf)] [BibTeX](https://willmatcham.com/img/m_2026_rbbl_bib_2026_02_26.txt)  <br>
-Revise and Resubmit (1st round), *Journal of Financial Economics* <br> 
+Revise and Resubmit, *Journal of Financial Economics* <br> 
 Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk-based-credit-limits-uk-credit-card-market) <br>
 
 [**Institutional Design of Misconduct Redress: Evidence from the Financial Ombudsman Service**](img/fos_main_16_website_2026_05_08.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6308658) [BibTeX](https://willmatcham.com/img/m_2026_fos_bib_2026_02_26.txt)  <br>
