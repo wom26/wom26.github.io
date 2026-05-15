@@ -88,7 +88,7 @@ Revise and Resubmit, *Journal of Financial Economics* <br>
 Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk-based-credit-limits-uk-credit-card-market) <br>
 
 [**Institutional Design of Misconduct Redress: Evidence from the Financial Ombudsman Service**](img/fos_main_16_website_2026_05_08.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6308658) [BibTeX](https://willmatcham.com/img/m_2026_fos_bib_2026_02_26.txt)  <br>
-[**The Anatomy of Dependence in Multivariate Ordered Choice**](img/KM20251105_nonlattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4103429), with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/) [BibTeX](https://willmatcham.com/img/km_2026_nonlattice_bib_2026_02_26.txt) <br>
+[**Multivariate ordered discrete response models with two layers of dependence**](img/KM20251105_nonlattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4103429), with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/) [BibTeX](https://willmatcham.com/img/km_2026_nonlattice_bib_2026_02_26.txt) <br>
 [**Multivariate Ordered Discrete Response Models with Lattice Structures**](img/KM20251108_lattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5702682) (with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/)) [BibTeX](https://willmatcham.com/img/km_2026_lattice_bib_2026_02_26.txt) <br>
 
 
