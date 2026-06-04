@@ -78,7 +78,7 @@ title: Research
 <base target="_blank">
 
 ### Working Papers
-[**Screening Property Rights for Innovation**](img/ms_2026_01_20_main_text.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519999), with [Mark Schankerman](https://personal.lse.ac.uk/schanker/) ([Online Appendices](img/ms_2026_01_20_online_appendices.pdf)) [BibTeX](https://willmatcham.com/img/ms_2026_bib_2026_02_26.txt)  <br>
+[**Screening Property Rights for Innovation**](img/ms_2026_main_text_aam_2026_05_12.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519999), with [Mark Schankerman](https://personal.lse.ac.uk/schanker/) ([Online Appendices](img/ms_2026_appendices_aam_2026_05_12.pdf)) [BibTeX](https://willmatcham.com/img/ms_2026_bib_2026_02_26.txt)  <br>
 Accepted, *Econometrica* <br>
 Coverage: [Vox EU Podcast](https://lnkd.in/emAqu9EE); [C-IP2](https://cip2.gmu.edu/2023/10/04/using-economic-models-to-evaluate-the-efficacy-of-u-s-patent-examination/) <br> 
 Presentations: [Zvi Conference 2024](https://www.youtube.com/watch?v=CRdLmHuQOwY&ab_channel=Sciencessociales-Coll%C3%A8gedeFrance) <br>
