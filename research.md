@@ -80,7 +80,7 @@ title: Research
 ### Working Papers
 [**Screening Property Rights for Innovation**](img/ms_2026_main_text_aam_2026_05_12.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519999), with [Mark Schankerman](https://personal.lse.ac.uk/schanker/) ([Online Appendices](img/ms_2026_appendices_aam_2026_05_12.pdf)) [BibTeX](https://willmatcham.com/img/ms_2026_bib_2026_02_26.txt)  <br>
 Accepted, *Econometrica* <br>
-Coverage: [Vox EU Podcast](https://lnkd.in/emAqu9EE); [C-IP2](https://cip2.gmu.edu/2023/10/04/using-economic-models-to-evaluate-the-efficacy-of-u-s-patent-examination/) <br> 
+Coverage: [Vox EU Podcast](https://cepr.org/multimedia/how-well-does-patent-screening-work); [C-IP2](https://cip2.gmu.edu/2023/10/04/using-economic-models-to-evaluate-the-efficacy-of-u-s-patent-examination/) <br> 
 Presentations: [Zvi Conference 2024](https://www.youtube.com/watch?v=CRdLmHuQOwY&ab_channel=Sciencessociales-Coll%C3%A8gedeFrance) <br>
 
 [**Risk-Based Borrowing Limits in Credit Card Markets**](img/rbbl_main_03_07_website_2025_03_10.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926974) ([Online Appendices](img/rbbl_online_03_07_website_2025_03_10.pdf)) [[Extra Note](img/rbbl_note_03_07_website_2025_03_10.pdf)] [BibTeX](https://willmatcham.com/img/m_2026_rbbl_bib_2026_02_26.txt)  <br>
