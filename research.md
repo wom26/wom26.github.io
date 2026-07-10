@@ -89,7 +89,7 @@ Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk
 
 [**The Anatomy of Dependence in Multivariate Ordered Choice**](img/KM20260710_nonlattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4103429), with [Tatiana Komarova](https://sites.google.com/view/tatianakomarova/) [BibTeX](https://willmatcham.com/img/km_2026_nonlattice_bib_2026_02_26.txt) <br> Submitted <br>
 
-[**Institutional Design of Misconduct Redress: Evidence from the Financial Ombudsman Service**](img/fos_main_22_website_2026_06_08.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6308658) [BibTeX](https://willmatcham.com/img/m_2026_fos_bib_2026_02_26.txt) 
+[**Institutional Design of Misconduct Redress: Evidence from the Financial Ombudsman Service**](img/fos_main_22_website_2026_06_08.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6308658) [BibTeX](https://willmatcham.com/img/m_2026_fos_bib_2026_02_26.txt) <br>
 [**Multivariate Ordered Discrete Response Models with Lattice Structures**](img/KM20251108_lattice.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5702682) (with [Tatiana Komarova](https://personalpages.manchester.ac.uk/staff/tatiana.komarova/)) [BibTeX](https://willmatcham.com/img/km_2026_lattice_bib_2026_02_26.txt) <br>
 
 
@@ -106,7 +106,6 @@ Council For Innovation Promotion (C4IP) Panel Discussion (2nd October 2024):
 <div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PqsauSsg70c?si=zzTeGUjL_5YaR4ux" frameborder="0" allowfullscreen></iframe>
 </div>
-
 
 
 ### Work in Progress
