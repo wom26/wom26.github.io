@@ -1,7 +1,7 @@
 @article{matcham_schankerman_2026,
   author  = {William Matcham and Mark Schankerman},
   title   = {Screening Property Rights for Innovation},
-  journal = {SSRN Working Paper},
+  journal = {Econometrica},
   year    = {2026},
-  note = {{\newline \texttt{http://dx.doi.org/10.2139/ssrn.4519999}}}
+  note    = {Forthcoming. Preprint: \url{https://doi.org/10.2139/ssrn.4519999}}
 }
