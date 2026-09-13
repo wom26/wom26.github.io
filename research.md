@@ -85,7 +85,7 @@ Presentations: [Zvi Conference 2024](https://www.youtube.com/watch?v=CRdLmHuQOwY
 
 
 ### Working Papers
-1. [**Risk-Based Borrowing Limits in Credit Card Markets**](img/rbbl_main_03_07_website_2025_03_10.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926974) ([Online Appendices](img/rbbl_online_03_07_website_2025_03_10.pdf)) [[Extra Note](img/rbbl_note_03_07_website_2025_03_10.pdf)] [BibTeX](https://willmatcham.com/img/m_2026_rbbl_bib_2026_02_26.txt)  <br>
+1. [**Risk-Based Borrowing Limits in Credit Card Markets**](img/rbbl_main_04_27_website_2026_09_13.pdf) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4926974) ([Online Appendices](img/rbbl_online_04_27_website_2026_09_13)) [[Extra Note](img/rbbl_note_03_07_website_2025_03_10.pdf)] [BibTeX](https://willmatcham.com/img/m_2026_rbbl_bib_2026_02_26.txt)  <br>
 Revise and Resubmit, *Journal of Financial Economics* <br> 
 Coverage: [FCA](https://www.fca.org.uk/publications/research/interest-rates-risk-based-credit-limits-uk-credit-card-market) <br>
 
