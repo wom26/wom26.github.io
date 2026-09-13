@@ -78,7 +78,7 @@ title: Research
 <base target="_blank">
 
 ### Published and Forthcoming Papers
-1. [**Screening Property Rights for Innovation**]([img/ms_2026_main_text_aam_2026_05_12.pdf](https://www.econometricsociety.org/publications/econometrica/2026/09/01/Screening-Property-Rights-for-Innovation/file/ecta70069.pdf)), with [Mark Schankerman](https://personal.lse.ac.uk/schanker/) ([Online Appendices](https://www.econometricsociety.org/publications/econometrica/2026/09/01/Screening-Property-Rights-for-Innovation/supp/ecta70069-sup-0001-onlineappendix.pdf)) [BibTeX](https://willmatcham.com/img/ms_2026_bib_2026_02_26.txt)  <br>
+1. [**Screening Property Rights for Innovation**](https://www.econometricsociety.org/publications/econometrica/2026/09/01/Screening-Property-Rights-for-Innovation/file/ecta70069.pdf), with [Mark Schankerman](https://personal.lse.ac.uk/schanker/) ([Online Appendices](https://www.econometricsociety.org/publications/econometrica/2026/09/01/Screening-Property-Rights-for-Innovation/supp/ecta70069-sup-0001-onlineappendix.pdf)) [BibTeX](https://willmatcham.com/img/ms_2026_bib_2026_02_26.txt)  <br>
 *Econometrica* Vol 94, Issue 5 (September 2026) pp. 1849–1886  <br>
 Coverage: [Vox EU Podcast](https://cepr.org/multimedia/how-well-does-patent-screening-work); [C-IP2](https://cip2.gmu.edu/2023/10/04/using-economic-models-to-evaluate-the-efficacy-of-u-s-patent-examination/) <br> 
 Presentations: [Zvi Conference 2024](https://www.youtube.com/watch?v=CRdLmHuQOwY&ab_channel=Sciencessociales-Coll%C3%A8gedeFrance) <br>
